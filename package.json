@@ -1,0 +1,25 @@
+{
+  "name": "week10-challenge",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brichardson117/miniature-happiness.git"
+  },
+  "author": "Brittney Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brichardson117/miniature-happiness/issues"
+  },
+  "homepage": "https://github.com/Brichardson117/miniature-happiness#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
